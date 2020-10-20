@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">DataHandling</string>
+    <string name="txtUname">User Name :</string>
+    <string name="txtPassword">Password :</string>
+    <string name="btnSelectAll">Select</string>
+    <string name="addbtn">Add</string>
+    <string name="btnSignIn">Sign in</string>
+    <string name="deleteBtn">Delete</string>
+    <string name="updateBtn">update</string>
+</resources>
